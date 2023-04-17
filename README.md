@@ -12,6 +12,10 @@ slightly different. For one, `usethis` is aimed at populating a package structur
 Second, there is not preset full template, hence many individual decisions still
 need to be made and code executed. This is bypassed by this setup.
 
+well yes here I am doing a small change to the README as asked but I don't know what 
+it is supposed to be so I just write a bunch of words
+
+
 ## Use
 
 ### A github project from the template
